@@ -1,0 +1,12 @@
+alembic
+argon2-cffi
+email-validator
+fastapi
+passlib
+psycopg[binary]
+pydantic-settings
+pydantic[email]
+pyjwt
+python-jose[cryptography]
+sqlalchemy
+uvicorn[standard]
